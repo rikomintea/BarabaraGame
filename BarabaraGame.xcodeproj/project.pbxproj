@@ -95,8 +95,6 @@
 		CEB7C4B5264FA51D00BC1354 = {
 			isa = PBXGroup;
 			children = (
-				CEB7C4F8264FAAEA00BC1354 /* RankingViewController.swift */,
-				CEB7C4F6264FAACB00BC1354 /* GameViewController.swift */,
 				CEB7C4C0264FA51D00BC1354 /* BarabaraGame */,
 				CEB7C4D7264FA52000BC1354 /* BarabaraGameTests */,
 				CEB7C4E2264FA52000BC1354 /* BarabaraGameUITests */,
@@ -154,6 +152,8 @@
 		CEB7C4F1264FA70600BC1354 /* Barabara素材 */ = {
 			isa = PBXGroup;
 			children = (
+				CEB7C4F8264FAAEA00BC1354 /* RankingViewController.swift */,
+				CEB7C4F6264FAACB00BC1354 /* GameViewController.swift */,
 				CEB7C4F2264FA70600BC1354 /* tail.png */,
 				CEB7C4F3264FA70600BC1354 /* bar.png */,
 			);

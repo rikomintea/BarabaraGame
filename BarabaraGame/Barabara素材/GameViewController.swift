@@ -59,7 +59,7 @@ class GameViewController: UIViewController {
         resultLabel.text = "Score:" + String(score)
         resultLabel.isHidden = false
    
-        let highScore1:Int = defaults.integer(forKey: "score1")
+        let highScore1:Int = defaults.integer(forK333ey: "score1")
         let highScore2:Int = defaults.integer(forKey: "score2")
         let highScore3:Int = defaults.integer(forKey: "score3")
     
